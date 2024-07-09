@@ -1,0 +1,35 @@
+body{
+    background-color: #EDE3E9;
+    font-family: "Rowdies", sans-serif;
+    text-transform: uppercase;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 300px;
+    border: 2px solid #111D4A;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#value{
+    font-size: 80px;
+    margin: 2rem;
+    color: #111D4A;
+}
+
+.btn{
+    background: #E6E4CE;
+    border: 3px solid #9F84BD;
+    border-radius: 10px;
+    font-size: large;
+    color: #9F84BD;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h1{
+    color: #9F84BD;
+}
